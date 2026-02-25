@@ -1,3 +1,7 @@
+This project contains example modules for daily data checks and aggregated notifications. 
+All domain-specific elements have been removed to make the code suitable for public repositories.
+
+
 # Alert ERP – Notifiche Giornaliere Codici Tecnici e Articoli Certificati
 
 Coppia di funzioni alert integrate nel gestionale **Business Cube** per notifiche automatiche giornaliere su eventi rilevanti.
